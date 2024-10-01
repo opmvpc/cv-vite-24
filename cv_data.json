@@ -1,0 +1,125 @@
+{
+    "personal_info": {
+        "name": "Thibault Six",
+        "birth_date": "14/12/1989",
+        "location": "Genval, Belgique",
+        "contact": {
+            "phone": "+32 471 99 59 25",
+            "email": "thibsix@outlook.be",
+            "website": "https://tsix.be",
+            "github": "https://github.com/opmvpc"
+        }
+    },
+    "experience": [
+        {
+            "position": "Chargé de cours",
+            "company": "Ifosup Wavre",
+            "dates": "2022 - 2024",
+            "tasks": [
+                "Élaboration des cours et des supports pédagogiques",
+                "Enseignement des cours d'informatique",
+                "Évaluation des étudiants",
+                "Partage de connaissances et d'expérience avec les élèves",
+                "Participation à la vie de l'école",
+                "Approche pédagogique orientée STEM"
+            ]
+        },
+        {
+            "position": "Lead Developer",
+            "company": "HIGHCO DATA",
+            "dates": "2021 - 2022",
+            "tasks": [
+                "Développer des applications de support pour le business (Full stack, Laravel, bootstrap, vuejs)",
+                "Analyser les besoins et mettre en place de solutions adaptées",
+                "Rédiger des documentations et guidelines de référence pour l'équipe PHP",
+                "Encadrer les developpeurs juniors",
+                "Maintenir et améliorer le système CI/CD (Gitlab)",
+                "Maintenir des applications legacy (PHP vanilla et Pimcore)"
+            ]
+        },
+        {
+            "position": "Web Developer",
+            "company": "Gembloux Agro Bio Tech, Faculté de ULiège",
+            "dates": "2017 - 2021",
+            "tasks": [
+                "Développements informatiques (Laravel), support aux utilisateurs, maintenance du parc, des auditoires et du réseau physique",
+                "Analyser, capter les besoins du client et développer une application de gestion intégrée pour un laboratoire d'analyses chimiques",
+                "Concevoir une application de support pédagogique utilisée dans le cadre d'un cours et d'une publication scientifique",
+                "Maintenance d'applications legacy Access, développement de scripts PHP, Perl, Bash et VB, développement de modules Drupal",
+                "Formation de mes collègues développeurs à Laravel et git"
+            ]
+        },
+        {
+            "position": "Assistant Administratif & Communication",
+            "company": "memovie",
+            "dates": "2014 - 2015",
+            "tasks": [
+                "Gestion du projet de plateforme web, développement du site de distribution des films",
+                "Gestion du CRM (Odoo)",
+                "Support administratif Gestion du parc informatique"
+            ]
+        }
+    ],
+    "skills": {
+        "web_development": {
+            "languages": [
+                "PHP",
+                "MySQL",
+                "Laravel",
+                "Vuejs",
+                "AlpineJS",
+                "JQuery",
+                "HTML",
+                "CSS (Bootstrap, TailwindCSS)"
+            ],
+            "other_languages": [
+                "Java",
+                "Python",
+                "UML2",
+                "LateX"
+            ],
+            "tools": [
+                "Git",
+                "GitHub Actions",
+                "GitLab CI",
+                "Psalm",
+                "PHPCS",
+                "PHPStan",
+                "PHPUnit",
+                "Laravel Dusk"
+            ]
+        },
+        "database": [
+            "Analyser, modéliser et implémenter des schémas de base de données relationnelles"
+        ],
+        "CI_CD": [
+            "Mettre en place le contrôle de version avec git et l'intégration continue (github actions, gitlab CI)"
+        ],
+        "frontend": [
+            "HTML",
+            "CSS (bootstrap, tailwindCSS)",
+            "Javascript (Vuejs, alpinejs, jquery)"
+        ]
+    },
+    "education": [
+        {
+            "degree": "Master en Sciences Informatiques",
+            "institution": "UNamur",
+            "dates": "2018 - 2024"
+        },
+        {
+            "degree": "Bachelier en Informatique de gestion",
+            "institution": "Ifosup Wavre",
+            "dates": "2015 - 2018",
+            "honors": "Grande Distinction"
+        }
+    ],
+    "interests": [
+        "Musique électronique",
+        "Médias",
+        "Blockchain",
+        "Web 3",
+        "AI Art",
+        "Starcraft2 (rang maître)"
+    ]
+}
